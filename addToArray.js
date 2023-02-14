@@ -1,5 +1,5 @@
 const myArray = [
-  ["jhone",23],
+  ["Jhon",23],
   ["cat",2]
   ];
   myArray.push(["Cs",1]);
